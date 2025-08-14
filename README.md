@@ -6,9 +6,9 @@ This repo contains 2000 sample images that you can use for web design, testing, 
 
 Each image has a link structure like https://yavuzceliker.github.io/sample-images/image-n.jpg. Here, n is a number between 1 and 700. You can change the n value in the link to view the image you want.
 
-For example, if you click on the link https://yavuzceliker.github.io/sample-images/image-1.jpg, you will see the following image:
+For example, if you click on the link https://yavuzceliker.github.io/sample-images/image-1021.jpg, you will see the following image:
 
-![Sample Image 1](https://yavuzceliker.github.io/sample-images/image-1.jpg)
+![Sample Image 1021](https://yavuzceliker.github.io/sample-images/image-1021.jpg)
 
 If you want to download all the images, click on the **Code** button in the upper right corner of the repo page and select the **Download ZIP** option. This way, a zip file containing all the images will be downloaded to your computer.
 
